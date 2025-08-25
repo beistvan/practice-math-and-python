@@ -1,2 +1,1 @@
-# practice-math-and-python
-Practice Math and Python
+# Practice Math and Python
